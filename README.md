@@ -1,2 +1,2 @@
-# Progetti-Start2impact
+# Projects-Start2impact
 Hello ! Here you will find all the projects made by Start2impact.
